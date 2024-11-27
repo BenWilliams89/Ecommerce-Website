@@ -1,0 +1,13 @@
+body {
+    padding: 15px;
+    margin: 5px;
+    display: flex;
+    flex: space-between;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn {
+    background-color: yellow;
+    color: rgb(23, 23, 22);
+}
